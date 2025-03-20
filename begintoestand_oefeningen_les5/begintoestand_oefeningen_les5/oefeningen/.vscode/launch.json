@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Active HTML via Live Server",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:5500/${relativeFile}",
+            "webRoot": "${workspaceFolder}",    // <-- This adapts automatically to the file's folder
+            "skipFiles": ["<node_internals>/**"],
+            "runtimeArgs": [
+                "--no-default-browser-check",
+                "--disable-default-apps",
+                "--disable-features=ChromeWhatsNewUI"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "sofie",
+      "friends": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "name": "tim",
+      "friends": [
+        1
+      ]
+    },
+    {
+      "id": 3,
+      "name": "geert",
+      "friends": []
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 4
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 5
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 6
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 7
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 8
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 9
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 10
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 11
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 12
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 13
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 14
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 15
+    },
+    {
+      "name": "nieuw",
+      "friends": [],
+      "id": 16
+    },
+    {
+      "name": "n",
+      "friends": [],
+      "id": 17
+    },
+    {
+      "name": "n",
+      "friends": [],
+      "id": 18
+    },
+    {
+      "name": "qq",
+      "friends": [],
+      "id": 19
+    },
+    {
+      "name": "qq",
+      "friends": [],
+      "id": 20
+    },
+    {
+      "name": "qq",
+      "friends": [],
+      "id": 21
+    },
+    {
+      "name": "qq",
+      "friends": [],
+      "id": 22
+    },
+    {
+      "name": "qq",
+      "friends": [],
+      "id": 23
+    },
+    {
+      "name": "qq",
+      "friends": [],
+      "id": 24
+    }
+  ]
+}

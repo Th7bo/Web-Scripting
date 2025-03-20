@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Performances</title>
+</head>
+<body>
+    <button id="button_get_all_performances">get all performances</button><br/><br/>
+    <button id="button_get_all_performances_date">get all performances of this date</button>
+    <label for="txt_id">datum</label> <input type="date" id="asked_date"/><br/><br/>
+    <button id="button_get_performance">get performance</button>
+    <label for="txt_id">id</label> <input type="text" id="txt_id"/><br/><br/>
+    <button id="button_post_performance">post performance</button>
+    <label for="txt_name">name</label><input type="text" id="txt_name"/>
+    <label for="txt_date">datum</label><input type="date" id="txt_date"/>
+    <label for="txt_descr">omschrijving</label><input type="text" id="txt_descr"/>
+    <br/><br/>
+    <div id="div_output"></div>
+<script src="fetchPerformances.js"></script>
+</body>
+</html>

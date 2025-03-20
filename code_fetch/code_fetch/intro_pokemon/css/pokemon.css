@@ -1,0 +1,25 @@
+.image-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-auto-rows: 1fr;
+    gap: 10px;
+    justify-content: top;
+    align-items: top;
+}
+
+.image-wrapper {
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.label {
+    margin: 5px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}                
+
